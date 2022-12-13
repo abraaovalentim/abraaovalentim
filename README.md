@@ -2,9 +2,13 @@
 
 - 👩🏻‍🎓 Atualmente sou Granduando em Ciência da Computação na UFCG
 - 👩🏻‍💻 Já estudei na Escola Tecnica Estadual AAV, com curso técnico em Redes de Computadores
+- Você pode me encontrar em: <br>
+ <a href = "mailto:abraao.araujo@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ou <a href="https://www.instagram.com/_abroni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - 🌱 Estou aprendendo Estrutura de Dados e Algoritmos em Programação
 - 😄 Pronomes: ele/dele
 - 🥳 No tempo livre, gosto de jogar vôlei, futebol e um lolzinho
+- E além disso tudo, você pode me acompanhar acadêmica e profissionalmente em: <br>
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <hr>
 <div align="center">
   <a href="https://github.com/abraaovalentim">
@@ -20,13 +24,4 @@
 </div>
   
   ##
-  
-  <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
